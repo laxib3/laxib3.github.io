@@ -1,7 +1,7 @@
 # Setup
-title: 華亭時夜輝
+title: 韩俊辉
 description: 😊
-url: https://rdniteglow.github.io
+url: https://laxib3.github.io
 avatar: /images/tx.jpg
 paginate: 5
 permalink: pretty
@@ -33,9 +33,9 @@ twitter:
   card: 
 logo: /images/tx.jpg
 social:
-  name: Joseph Han
+  name: Han Junhui
   links:
-    - https://github.com/rdniteglow/
+    - https://github.com/laxib3/
 google_site_verification: 
 lang: en
 
@@ -53,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: RdNiteGlow
+  name: Han Junhui
   url: /about
   email: 
