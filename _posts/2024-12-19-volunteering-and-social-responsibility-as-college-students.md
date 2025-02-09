@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can We Contribute to Society Through Volunteer Work as College Students?
+title: Volunteering and Social Responsibility as College Students
 tags: 
  - volunteering
  - speech
