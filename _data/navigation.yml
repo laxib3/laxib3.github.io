@@ -1,8 +1,10 @@
-- title: Blog
+- title: 博客
   url: /
-- title: About
+- title: 关于
   url: /about/
-- title: Shanghainese Dict.
+- title: 沪语辞典
   url: /shanghainese/
 - title: ExTyper
   url: /extyper/
+- title: 友情链接
+  url: /links/
