@@ -1,11 +1,11 @@
 # Setup
-title: LaxiB3
-description: fhepaozok.
+title: 飯泡粥少爺
+description: 楊樹頭（選擇困難症）和現世囡囡
 url: https://laxib3.github.io
-avatar: /images/tx.jpg
+avatar: /images/tx2.jpg
 paginate: 5
 permalink: pretty
-cover_image: /images/bg4.jpg
+cover_image: /images/bg5.jpg
 
 # Gems
 plugins:
